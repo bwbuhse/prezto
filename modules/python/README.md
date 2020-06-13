@@ -74,7 +74,7 @@ working directories. It must be set and the directory created before `mkproject`
 is used. Replace *Developer* with your projects directory.
 
 ```sh
-export PROJECT_HOME="$HOME/Developer"
+export PROJECT_HOME="$HOME/projects"
 ```
 
 The variable `VIRTUALENVWRAPPER_PYTHON` tells `virtualenvwrapper` to use the
